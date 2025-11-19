@@ -1,0 +1,7 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Order_Date,City
+1001,Priya,Laptop,Electronics,1,55000,2024-05-14,Delhi
+1002,Arjun,Shoes,Fashion,2,2500,2024-05-16,Mumbai
+1003,Simran,Mobile,Electronics,1,30000,2024-05-18,Chennai
+1004,Kabir,Watch,Accessories,3,1500,2024-05-18,Delhi
+1005,Arjun,Laptop Bag,Accessories,1,800,2024-05-20,Pune
+1006,Priya,Mobile,Electronics,1,29000,2024-05-22,Delhi

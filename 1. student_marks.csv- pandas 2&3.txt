@@ -1,0 +1,44 @@
+1. student_marks.csv
+
+Load the dataset and view first 5 rows.
+
+Show number of students who scored grade A.
+
+Find average marks scored in each subject.
+
+Which student scored the highest marks?
+
+Add a new column "Pass/Fail"
+
+Marks ≥ 40 → Pass
+
+Else → Fail
+
+Sort marks in descending order.
+
+
+2.store_orders.csv
+
+Load the dataset and convert Order_Date to datetime.
+
+Create a new column "Total_Amount" = Quantity × Price
+
+Identify top 3 highest-value orders.
+
+Group by Category and show total revenue.
+
+Group by City and find number of orders from each city.
+
+Find which customer spent the most money overall.
+
+Extract all orders during May 2024 (using query / datetime filtering)
+
+Detect and remove duplicate orders (if any).
+
+Find revenue trend per day (daily sales).
+
+Add a column:
+
+If Total_Amount > 20,000 → "High Value"
+
+else → "Normal"
