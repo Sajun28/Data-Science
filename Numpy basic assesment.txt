@@ -1,0 +1,78 @@
+1️⃣ Create a NumPy array from this list:
+
+[4, 8, 12, 16, 20]
+→ Use np.array()
+
+2️⃣ Generate an array of numbers from 1 to 30 with a step of 3
+
+→ Use np.arange()
+
+3️⃣ Create an array of 5 evenly spaced numbers between 0 and 1
+
+→ Use np.linspace()
+
+4️⃣ Create a 3×3 matrix of zeros and a 2×4 matrix of ones
+
+→ Use np.zeros() and np.ones()
+
+5️⃣ Reshape this array into 3 rows and 2 columns:
+
+[1, 2, 3, 4, 5, 6]
+→ Use np.reshape()
+
+6️⃣ Find the sum, mean, max, and min of the array:
+
+[10, 20, 30, 40, 50]
+→ Use np.sum(), np.mean(), np.max(), np.min()
+
+7️⃣ Sort this array:
+
+[9, 2, 7, 1, 6]
+→ Use np.sort()
+
+
+Assessment 2 (Easy):
+
+1️⃣ Generate an array of 5 random integers between 10 and 50
+
+→ Use np.random.randint()
+
+2️⃣ Generate a 2×3 matrix of random values between 0 and 1
+
+→ Use np.random.rand()
+
+3️⃣ Combine these two arrays into one:
+
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+→ Use np.concatenate()
+
+4️⃣ From this array:
+
+arr = np.array([3, 7, 2, 7, 9, 2, 3])
+Find the unique values.
+→ Use np.unique()
+
+5️⃣ Using this matrix:
+A = np.array([[1, 2],
+              [3, 4]])
+
+
+Calculate its transpose.
+→ Use A.T or np.transpose()
+
+6️⃣ Perform matrix multiplication:
+A = np.array([[1, 2],
+              [3, 4]])
+
+B = np.array([[5, 6],
+              [7, 8]])
+
+
+→ Use np.dot(A, B)
+
+7️⃣ Find the indices where elements of this array are greater than 50:
+
+arr = np.array([12, 67, 45, 89, 23])
+→ Use np.where()
+

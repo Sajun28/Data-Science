@@ -1,0 +1,56 @@
+ID,Name,Age,Salary,Join_Date,Department,Performance_Score
+1,Alice,,50000,2022-01-15,HR,
+2,Bob,twenty,N/A,2021-05-10,,4.2
+3,Charlie,25,50000,,HR,3.5
+4,David,40,N/A,2022-01-15,UnknownValue,3.5
+5,Eva,40,60000,2022-01-15,HR,4.2
+6,Alice,40,N/A,,UnknownValue,5.0
+7,Bob,30,60000,2021-05-10,IT,3.5
+8,Charlie,40,70000,not a date,Sales,
+9,David,twenty,70000,not a date,IT,4.2
+10,Eva,35,50000,,Sales,4.2
+11,Alice,,60000,not a date,UnknownValue,bad
+12,Bob,25,60000,,HR,3.5
+13,Charlie,25,60000,,HR,3.5
+14,David,,60000,,HR,
+15,Eva,35,,not a date,Sales,5.0
+16,Alice,30,,2022-01-15,HR,
+17,Bob,25,70000,not a date,IT,5.0
+18,Charlie,30,,not a date,IT,bad
+19,David,twenty,50000,,HR,
+20,Eva,30,,not a date,,
+21,Alice,twenty,N/A,,Sales,3.5
+22,Bob,25,60000,,,
+23,Charlie,30,70000,not a date,UnknownValue,3.5
+24,David,,N/A,not a date,HR,bad
+25,Eva,40,,,,5.0
+26,Alice,25,N/A,2021-05-10,Sales,
+27,Bob,40,N/A,2022-01-15,UnknownValue,bad
+28,Charlie,twenty,N/A,not a date,Sales,3.5
+29,David,25,,,,5.0
+30,Eva,35,N/A,not a date,UnknownValue,
+31,Alice,40,N/A,2022-01-15,Finance,
+32,Bob,25,N/A,not a date,UnknownValue,4.2
+33,Charlie,30,50000,2022-01-15,Sales,
+34,David,40,N/A,2021-05-10,HR,bad
+35,Eva,twenty,,not a date,HR,
+36,Alice,40,70000,not a date,HR,
+37,Bob,40,50000,,UnknownValue,4.2
+38,Charlie,25,60000,2021-05-10,UnknownValue,4.2
+39,David,30,60000,,Finance,4.2
+40,Eva,30,,not a date,HR,
+41,Alice,30,50000,,,5.0
+42,Bob,25,50000,2021-05-10,Finance,5.0
+43,Charlie,35,60000,2021-05-10,UnknownValue,bad
+44,David,,70000,not a date,UnknownValue,
+45,Eva,40,N/A,2021-05-10,Sales,4.2
+46,Alice,40,70000,not a date,Finance,5.0
+47,Bob,35,50000,,HR,
+48,Charlie,,,not a date,HR,4.2
+49,David,35,70000,not a date,,bad
+50,Eva,25,70000,,Sales,5.0
+28,Charlie,twenty,N/A,not a date,Sales,3.5
+36,Alice,40,70000,not a date,HR,
+41,Alice,30,50000,,,5.0
+39,David,30,60000,,Finance,4.2
+3,Charlie,25,50000,,HR,3.5
